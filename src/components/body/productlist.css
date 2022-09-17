@@ -1,0 +1,10 @@
+.container-plist{
+    display: flex;
+    padding: 0;
+}
+
+.container-cards_plist{
+    display: flex;
+    width: 75%;
+    padding: 2rem
+}

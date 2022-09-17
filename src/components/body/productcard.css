@@ -1,0 +1,4 @@
+.card-content__subtext{
+    display: flex;
+    justify-content: space-between;
+}

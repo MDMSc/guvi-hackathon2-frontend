@@ -1,0 +1,28 @@
+/* .container-home {
+    background: pink;
+    color: white;
+    padding: 2rem
+} */
+
+.container-home > h1{
+    padding: 1rem 0 2rem 0;
+    font-size: 4rem;
+}
+
+.container-home > h3{
+    padding-bottom: 3rem;
+    font-size: 1.5rem;
+}
+
+.container-home > h2{
+    font-size: 2rem;
+}
+
+.container-home h1, h2, h3, h4{
+    text-align: center;
+}
+
+.emp{
+    font-size: 1.4rem;
+}
+

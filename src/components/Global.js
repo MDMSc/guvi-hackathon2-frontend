@@ -1,0 +1,1 @@
+export const API = "https://equipment-rental-portal-samim.herokuapp.com";

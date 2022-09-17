@@ -1,0 +1,20 @@
+.filters{
+    background-color: #343a40;
+    color: white;
+    padding: 1rem;
+    width: 20%;
+    margin: 1rem;
+    height: 86vh;
+}
+
+.filters > div {
+    padding-bottom: 1.5rem;
+}
+
+.title{
+    font-size: 1.5rem;
+}
+
+.filters > button{
+    width: 100%;
+}
